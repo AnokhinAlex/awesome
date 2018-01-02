@@ -1,0 +1,3 @@
+https://api.telegram.org/bot456364880:AAHaXYa7_Vs1NFbj6WZ4c-H05GFab8E07KY/setWebhook?url=https://walker-john5568.c9users.io/connection.php
+
+https://api.telegram.org/bot456364880:AAHaXYa7_Vs1NFbj6WZ4c-H05GFab8E07KY/setWebhook?url=https://walker-cloned-john5568.c9users.io/connection.php
