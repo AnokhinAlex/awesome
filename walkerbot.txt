@@ -6,3 +6,7 @@ Use this token to access the HTTP API:
 For a description of the Bot API, see this page: https://core.telegram.org/bots/api
 
 
+
+Use this token to access the HTTP API:
+456364880:AAHaXYa7_Vs1NFbj6WZ4c-H05GFab8E07KY
+
